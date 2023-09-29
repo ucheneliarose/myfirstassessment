@@ -1,4 +1,3 @@
-/* Reset styles */
 body {
     background: linear-gradient(to bottom right, #e63140, #aa5dc6, #552aa0);
     font-family: 'Varela Round', sans-serif;
@@ -98,7 +97,6 @@ textarea {
     padding-top: 20px;
 }
 
-/* Media query for responsive design */
 @media screen and (max-width: 768px) {
     .form-group {
         padding: 20px; 
